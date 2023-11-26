@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "/Users/fargabanik/Desktop/TestNG/testng-1.0.dtd" >
+<suite name="Suite1" verbose="1" >
+  <test name="validate login test" >
+    <classes>
+       <class name="orangehrm.ny.runner.Myrunner" />
+    </classes>
+  </test>
+</suite>
+
